@@ -4,6 +4,10 @@ This project explores the intersection of AI, neuroscience, and game development
 
 Our architecture is divided into a back-end and a front-end. The back-end handles NPC behavior logic, including memory management, emotional responses, and interactions, inspired by neuroscience principles. The front-end, developed with Pygame and Tiled, visualizes the village and NPC interactions in real-time.
 
+### Written report
+
+- [written_report_french.pdf](written_report_french.pdf)
+
 ![thevillage](images/TheVillage.gif)
 
 <p align="center">
